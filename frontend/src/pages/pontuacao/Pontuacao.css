@@ -1,0 +1,24 @@
+h3 {
+    font-size: 60px;
+    color: rgb(255, 238, 0);
+    text-shadow: 2px 2px #ffae00;
+    text-align: center;
+}
+
+h4 {
+    font-size: 40px;
+    color: rgb(255, 86, 213);
+    text-shadow: 2px 2px #9600aa;
+    text-align: center;
+}
+
+.fundo-pontuacao{
+    background-color: #dadadaa8;
+    border-radius: 60px;
+    text-align: center;
+}
+
+.logo-pontuacao{
+
+    text-align: center;
+}

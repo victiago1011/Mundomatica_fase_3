@@ -1,0 +1,24 @@
+.fundo-questao{
+    background-color: #dadadaa8;
+    border-radius: 60px;
+    text-align: center;
+}
+
+Button#btnResposta{
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    font-size: 50px;
+    color: white;
+    border-radius: 20px;
+}
+
+p#resposta{
+    color: rgb(255, 0, 140);
+    font-size: 50px;
+    text-shadow: 2px 2px #0e4600
+}
+
+button#submit{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,27 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:x-large
+}
+
+div#logo-login{
+    text-align: center;
+}
+
+Label#txtCriar{
+    font-size: 100px;
+}
+
+div#btnCriar{
+    float: right;
+}
+
+h1, h2{
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 3px 3px #e20057;
+}
+
+.jumbotron{
+    background-color: #efbeff8e;
+    text-align: center;
+}
